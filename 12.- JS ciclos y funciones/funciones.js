@@ -31,7 +31,7 @@ function adivinaNum() {
         } else {
             alert(`El número a adivinar es menor. Te quedan ${intentosRestantes} intentos.`);
         }
-    }
+    } 
     
     if (!acertado) {
         alert(`Se acabaron los intentos. El número era ${secreto}.`);
