@@ -23,4 +23,4 @@ function calculaSigno() {
     
     alert(`Tu signo del horóscopo chino es: ${signo}`);
     console.log(`Tu signo del horóscopo chino es: ${signo}`);
-}
+} 
